@@ -22,7 +22,7 @@
 
 - Node.js 16.0+
 - NPM 8.0+ 或 Yarn 1.22+
-- Python 3.8+ (用于vLLM运行环境)
+- Python 3.11+ (用于vLLM运行环境)
 - CUDA工具包 (支持GPU加速)
 
 ## 📦 安装步骤
@@ -125,8 +125,8 @@ VLLM_PATH=/path/to/vllm npm start
 
 如有问题或建议，请通过Issues或以下方式联系我们：
 
-- 邮箱：your.email@example.com
-- 网站：https://your-website.com
+- 邮箱：19909442097@163.com
+- 网站：https://space.panbinghong.blog.com
 
 ## 📚 参考资料
 
